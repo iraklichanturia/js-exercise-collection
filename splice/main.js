@@ -1,11 +1,3 @@
-
-
-
-
-// Rotate Array: Write a program that rotates the elements of an array to the right by a specified number of positions. Use splice() to achieve the rotation.
-
-// Split an Array: Implement a function that splits an array into two separate arrays at a given index. Use splice() to divide the array.
-
 // Chunk Array: Write a program that chunks an array into subarrays of a specified size. The original array should be modified using the splice() method.
 
 // Remove All Occurrences of a Value: Create a function that removes all occurrences of a specific value from an array using the splice() method.
